@@ -22,3 +22,4 @@ Vor einem Einsatz auf einer echten Website sollte eine finale URL für Canonical
 - [Google Search Central: Local Business structured data](https://developers.google.com/search/docs/appearance/structured-data/local-business)
 - [Google Search Central: Spam policies for Google Web Search](https://developers.google.com/search/docs/essentials/spam-policies)
 - [web.dev: Core Web Vitals thresholds](https://web.dev/articles/defining-core-web-vitals-thresholds)
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/about)
